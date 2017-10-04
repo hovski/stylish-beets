@@ -31,3 +31,8 @@ nav > ol > li {
 img {
   width: 100%;
 }
+
+figcaption {
+  font-family: "PT Serif",serif;
+  font-style: italic;
+}
