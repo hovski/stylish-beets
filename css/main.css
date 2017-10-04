@@ -27,3 +27,7 @@ nav > ol > li {
   list-style-type: none;
   font-weight: bold;
 }
+
+img {
+  width: 100%;
+}
