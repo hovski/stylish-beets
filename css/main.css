@@ -36,3 +36,7 @@ figcaption {
   font-family: "PT Serif",serif;
   font-style: italic;
 }
+
+p.bold {
+  font-weight: bold;
+}
