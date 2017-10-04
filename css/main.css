@@ -22,3 +22,8 @@ a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
+nav > ol > li {
+  list-style-type: none;
+  font-weight: bold;
+}
