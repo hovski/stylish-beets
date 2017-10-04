@@ -4,3 +4,9 @@ html {
   line-height: 1.5;
   color: #222;
 }
+
+h1 {
+  color: #3f1622;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
