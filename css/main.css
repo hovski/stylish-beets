@@ -76,3 +76,8 @@ ol > li {
 h2 + p {
   font-style: italic;
 }
+
+dl :first-child {
+  font-style: bold;
+
+}
