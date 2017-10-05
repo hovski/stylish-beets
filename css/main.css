@@ -42,6 +42,7 @@ main {
 figcaption {
   font-family: "PT Serif",serif;
   font-style: italic;
+  text-align: center;
 }
 
 p.bold {
@@ -60,5 +61,8 @@ main > blockquote > cite {
 }
 
 h2 {
-
+  color: #3f1622;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "PT Sans", sans-serif;
 }
