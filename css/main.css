@@ -95,3 +95,7 @@ dl data {
 ul {
   list-style-type: circle;
 }
+
+footer a {
+  font-size: .8rem;
+}
