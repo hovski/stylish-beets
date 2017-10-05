@@ -72,3 +72,7 @@ h2 {
 ol > li {
   list-style-type: lower-greek;
 }
+
+p.serving {
+  font-style: italic;
+}
