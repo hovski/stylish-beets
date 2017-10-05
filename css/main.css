@@ -73,6 +73,6 @@ ol > li {
   list-style-type: lower-greek;
 }
 
-.serving {
+h2 + p {
   font-style: italic;
 }
