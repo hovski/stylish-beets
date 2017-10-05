@@ -89,4 +89,9 @@ dl > dd {
 
 dl data {
   font-weight: normal;
-  display: bloc
+  display:block;
+}
+
+ul {
+  list-style-type: circle;
+}
