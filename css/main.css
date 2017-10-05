@@ -36,6 +36,12 @@ main {
   font-family: "PT Serif",serif;
 }
 
+main > blockquote > p {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
 figcaption {
   font-family: "PT Serif",serif;
   font-style: italic;
