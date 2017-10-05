@@ -36,11 +36,11 @@ img {
 }
 
 main {
-  font-family: "PT Serif",serif;
+  font-family: "PT Serif", serif;
 }
 
 figcaption {
-  font-family: "PT Serif",serif;
+  font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
 }
@@ -89,7 +89,7 @@ dl > dd {
 
 dl data {
   font-weight: normal;
-  display:block;
+  display: block;
 }
 
 ul {
