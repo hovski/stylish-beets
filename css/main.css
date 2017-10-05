@@ -68,3 +68,7 @@ h2 {
   font-weight: bold;
   font-family: "PT Sans", sans-serif;
 }
+
+ol > li {
+  list-style-type: lower-greek;
+}
