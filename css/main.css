@@ -81,3 +81,8 @@ dl > dt {
   font-size: 1.125rem;
   font-weight: bold;
 }
+
+dl > dd {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
