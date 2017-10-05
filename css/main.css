@@ -16,6 +16,7 @@ a,
 a:link {
   color: #8f2440;
   font-size: 1.125rem;
+  font-family: "PT Sans", sans-serif;
   text-decoration: none;
 }
 
@@ -27,6 +28,7 @@ a:hover {
 nav > ol > li {
   list-style-type: none;
   font-weight: bold;
+  font-family: "PT Sans", sans-serif;
 }
 
 img {
