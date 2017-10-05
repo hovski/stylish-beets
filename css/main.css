@@ -45,7 +45,7 @@ figcaption {
   text-align: center;
 }
 
-p.bold {
+.bold {
   font-weight: bold;
 }
 
@@ -73,6 +73,6 @@ ol > li {
   list-style-type: lower-greek;
 }
 
-p.serving {
+pserving {
   font-style: italic;
 }
