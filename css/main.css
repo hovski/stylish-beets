@@ -32,6 +32,10 @@ img {
   width: 100%;
 }
 
+main {
+  font-family: "PT Serif",serif;
+}
+
 figcaption {
   font-family: "PT Serif",serif;
   font-style: italic;
