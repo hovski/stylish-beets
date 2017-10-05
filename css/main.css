@@ -86,3 +86,7 @@ dl > dd {
   font-size: 1.125rem;
   font-weight: bold;
 }
+
+dl data {
+  font-weight: normal;
+  display: bloc
