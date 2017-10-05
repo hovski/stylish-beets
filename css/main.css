@@ -77,7 +77,7 @@ h2 + p {
   font-style: italic;
 }
 
-dl :first-child {
-  font-style: bold;
-
+dl > dt {
+  font-size: 1.125rem;
+  font-weight: bold;
 }
