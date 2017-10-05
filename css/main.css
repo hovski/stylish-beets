@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
   color: #222;
 }
@@ -9,6 +9,7 @@ h1 {
   color: #3f1622;
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: "PT Sans", sans-serif;
 }
 
 a,
@@ -54,4 +55,8 @@ main > blockquote > p {
 main > blockquote > cite {
   font-size: .8rem;
   font-weight: normal;
+}
+
+h2 {
+
 }
